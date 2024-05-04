@@ -1,0 +1,10 @@
+difference document and window
+
+window is an global object for java script 
+window is a access to various properties and methods related
+to the browser window,its location witdth alerts views
+its all on window,commands('window.alart,width,()';)
+
+document also one of the object its access to the document
+on the window tab,its allowing interact with content,
+stucture,styling of web page command 'document.getelement()
